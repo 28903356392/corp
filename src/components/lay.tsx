@@ -1,5 +1,4 @@
 import Image, { StaticImageData } from "next/image";
-import mo from "./12.jpg";
 
 interface Iprops{
     imgurl:StaticImageData,
